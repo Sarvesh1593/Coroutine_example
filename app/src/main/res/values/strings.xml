@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coroutine_example</string>
+    <string name="get_random_image_dog">Get Random Image Dog</string>
+</resources>
